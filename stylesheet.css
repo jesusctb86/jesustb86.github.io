@@ -1,0 +1,16 @@
+h1 {
+    font-family: 'Liu Jian Mao Cao', cursive;
+    color: white;
+}
+h2 {
+    font-family: 'Long Cang', cursive;
+    color: orange
+}
+.parallax img {
+    width:100%;
+}
+
+body {
+    background-image: url(https://ihitthebutton.com/wp-content/uploads/2018/03/elysian-park-los-angeles-sunset-dji-mavic-pro-800x1000.jpg);
+    background-size: cover; 
+}
